@@ -1,0 +1,25 @@
+{
+  "name": "proyecto_flutter",
+  "version": "1.0.0",
+  "description": "servidor rest en nodejs para login en flutter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nperezcharlin/login_nodejs.git"
+  },
+  "dependencies": {
+    "mongoose": "~3.6.11",
+    "express": "^4.7.1",
+    "method-override": "^2.1.2",
+    "body-parser": "^1.5.1"
+  },
+  "author": "nicolasp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nperezcharlin/login_nodejs/issues"
+  },
+  "homepage": "https://github.com/nperezcharlin/login_nodejs#readme"
+}
